@@ -10,13 +10,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 To get this project running
 
-1. Download the Reposotry .
+1. Download the Repository.
 
 [GitHub Repo](https://github.com/FatmaMagdy/FatmaMagdy.github.io.git)
 
 2. Open the Index.html using your web browser.
  
-###
+### Notes
 
 Youc can see a DEMO [HERE](https://fatmamagdy.github.io/)
 
